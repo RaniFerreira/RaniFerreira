@@ -63,8 +63,9 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117&logoWidth=40)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&logoWidth=40)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117&logoWidth=40)&nbsp;
-![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-0D1117?style=for-the-badge&logo=google&logoColor=0D1117&labelColor=0D1117&logoWidth=40)&nbsp;
-
+![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=apache-netbeans&labelColor=0D1117&logoWidth=40)&nbsp;
+![OneDrive](https://img.shields.io/badge/-OneDrive-0D1117?style=for-the-badge&logo=microsoft-onedrive&labelColor=0D1117&logoWidth=40)&nbsp;
+![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117&logoWidth=40)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
