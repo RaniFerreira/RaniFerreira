@@ -1,87 +1,88 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ranielly+Ferreira;I'm+24+years+old;I+study+analysis+and+systems+development+at+iftm;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div  align="center">
-  <a href="https://github.com/raniferreira/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=raniferreira&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/raniferreira/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raniferreira&langs_count=8&layout=compact&theme=radical" />
-  </a>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raniferreira&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raniferreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-    <a href="https://www.instagram.com/rani.ferreira1/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-</div>
-
-
-<div align="center">  
-  <a href="https://discord.com/channels/@me/1223815972574593034" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
-<div align="center">  
-  <a href="mailto:raniellyf535@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/ranielly-ferreira-b05945251/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-
-### Main skills (Learning):
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&logoWidth=40)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117&logoWidth=40)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&logoWidth=40)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&logoWidth=40)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoWidth=40)&nbsp;
-
-
-
-### Tools (Learning):
-![MYSQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&logoWidth=40)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117&logoWidth=40)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117&logoWidth=40)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&logoWidth=40)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&logoWidth=40)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117&logoWidth=40)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117&logoWidth=40)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117&logoWidth=40)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117&logoWidth=40)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=apache-netbeans&labelColor=0D1117&logoWidth=40)&nbsp;
-![OneDrive](https://img.shields.io/badge/-OneDrive-0D1117?style=for-the-badge&logo=microsoft-onedrive&labelColor=0D1117&logoWidth=40)&nbsp;
-![XAMPP](https://img.shields.io/badge/-XAMPP-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117&logoWidth=40)&nbsp;
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Ranielly%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20em%20formação%20%7C%20ADS%20%40%20IFTM&descAlignY=58&descSize=18"/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RaniFerreira}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=663399&height=120&section=footer"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Olá!+Eu+sou+a+Ranielly+%F0%9F%91%8B;Estudante+de+Análise+e+Desenvolvimento;Apaixonada+por+tecnologia+%E2%9C%A8;Construindo+o+futuro+linha+por+linha+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+</div>
 
-
+---
 
 
-  
- 
+## 🧬 Sobre mim
+
+```yaml
+name: Ranielly Ferreira
+location: Brasil 🇧🇷
+education: Análise e Desenvolvimento de Sistemas @ IFTM
+status: Estudando e evoluindo todos os dias 💜
+focus: Backend, Lógica de Programação & Banco de Dados
+stack:      "Full Stack",
+fun_fact: Cada bug resolvido é uma vitória 🏆
+```
+
+---
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rani.ferreira1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranielly-ferreira-b05945251/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1223815972574593034)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raniellyf535@gmail.com)
+
+</div>
+
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Linguagens
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🛠️ Ferramentas & Ambiente
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoft-onedrive&logoColor=white)
+
+</div>
+
+
+---
+
+## 📈 Gráfico de Atividade
+
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=raniferreira&bg_color=1a1b27&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 
 
- 
+---
 
+<div align="center">
+
+### 💜 Obrigada pela visita!
+
+*"O aprendizado é uma jornada, não um destino."*
+
+<br>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
