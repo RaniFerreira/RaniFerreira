@@ -8,20 +8,21 @@
 
 ---
 
-
 ## 🧬 Sobre mim
 
 ```yaml
 name: Ranielly Ferreira
 location: Brasil 🇧🇷
-education: Análise e Desenvolvimento de Sistemas @ IFTM
-status: Estudando e evoluindo todos os dias 💜
+degree: Técnica em Análise e Desenvolvimento de Sistemas @Senac Minas
+education: Superior em Análise e Desenvolvimento de Sistemas @ IFTM
+status: Em processo de graduação | Estudando e evoluindo todos os dias 💜
 focus: Backend, Lógica de Programação & Banco de Dados
-stack:      "Full Stack",
+stack: "Full Stack"
 fun_fact: Cada bug resolvido é uma vitória 🏆
 ```
 
 ---
+
 ## 🌐 Onde me encontrar
 
 <div align="center">
@@ -32,6 +33,8 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raniellyf535@gmail.com)
 
 </div>
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -46,22 +49,36 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 
 </div>
 
+### 🌿 Frameworks & Tecnologias
+
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+
+</div>
+
 ### 🛠️ Ferramentas & Ambiente
 
 <div align="center">
 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoft-onedrive&logoColor=white)
 
 </div>
-
 
 ---
 
@@ -71,17 +88,11 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 
 ---
 
-
-
----
-
 <div align="center">
 
 ### 💜 Obrigada pela visita!
 
 *"O aprendizado é uma jornada, não um destino."*
-
-<br>
 
 </div>
 
