@@ -1,29 +1,29 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Ranielly%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20em%20formação%20%7C%20ADS%20%40%20IFTM&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Ranielly%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ADS%20%40%20IFTM&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Olá!+Eu+sou+a+Ranielly+%F0%9F%91%8B;Estudante+de+ADS;Apaixonada+por+tecnologia+%E2%9C%A8;Construindo+o+futuro+linha+por+linha+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Ranielly+%F0%9F%91%8B;Systems+Analysis+%26+Development+Student;Passionate+about+technology+%E2%9C%A8;Building+the+future+line+by+line+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧬 Sobre mim
+## 🧬 About me
 
 ```yaml
 name: Ranielly Ferreira
-location: Brasil 🇧🇷
-degree: Técnica em Análise e Desenvolvimento de Sistemas @Senac Minas
-education: Superior em Análise e Desenvolvimento de Sistemas @ IFTM
-status: Em processo de graduação | Estudando e evoluindo todos os dias 💜
-focus: Backend, Lógica de Programação & Banco de Dados
+location: Brazil 🇧🇷
+degree: Technical Degree in Systems Analysis and Development @Senac Minas
+education: Bachelor's in Systems Analysis and Development @ IFTM
+status: Currently in college | Studying and evolving every day 💜
+focus: Backend, Programming Logic & Databases
 stack: "Full Stack"
-fun_fact: Cada bug resolvido é uma vitória 🏆
+fun_fact: Every bug fixed is a victory 🏆
 ```
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
 <div align="center">
 
@@ -36,9 +36,9 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
-### 💻 Linguagens
+### 💻 Languages
 
 <div align="center">
 
@@ -49,7 +49,7 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 
 </div>
 
-### 🌿 Frameworks & Tecnologias
+### 🌿 Frameworks & Technologies
 
 <div align="center">
 
@@ -59,10 +59,9 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-
 </div>
 
-### 🛠️ Ferramentas & Ambiente
+### 🛠️ Tools & Environment
 
 <div align="center">
 
@@ -82,17 +81,17 @@ fun_fact: Cada bug resolvido é uma vitória 🏆
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Activity Graph
 
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=raniferreira&bg_color=1a1b27&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=raniferreira&bg_color=1a1b27&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
 
-### 💜 Obrigada pela visita!
+### 💜 Thanks for visiting!
 
-*"O aprendizado é uma jornada, não um destino."*
+*"Learning is a journey, not a destination."*
 
 </div>
 
